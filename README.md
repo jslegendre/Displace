@@ -16,9 +16,9 @@ Although Displace is compatible with SMS (SMCMotionSensor/Sudden Motion Sensor) 
 ###### If you have an accelerometer enabled Toshiba device you should check out [TOSMotionSensor](https://github.com/jslegendre/TOSMotionSensor), an accelerometer driver and SMS emulator for Toshiba devices.
 
 <p align="center">
-	<img height="200" min-width="100" src="https://i.imgur.com/ytuJl9f.png" alt="desktop-image">
-	<img height="200" min-width="100" src="https://i.imgur.com/aq4x3AH.png" alt="desktop-image">
-	<img height="200" min-width="100" src="https://i.imgur.com/rdOfygP.png" alt="desktop-image">
+	<img height="250" min-width="100" src="https://i.imgur.com/ytuJl9f.png" alt="desktop-image">
+	<img height="250" min-width="100" src="https://i.imgur.com/aq4x3AH.png" alt="desktop-image">
+	<img height="250" min-width="100" src="https://i.imgur.com/rdOfygP.png" alt="desktop-image">
 
 </p>
 <p align="center"></p>
